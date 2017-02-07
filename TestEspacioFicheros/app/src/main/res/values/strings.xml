@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test Espacio con Ficheros</string>
+    <string name="nombre_investigacion">Caracterización de los mecanismos de persistencia local en dispositivos móviles con Android</string>
+    <string name="resumen_investigacion">El objetivo de esta aplicación es evaluar el espacio de almacenamiento del mecanismo de persistencia local: Almacenamiento con ficheros</string>
+    <string name="nombre_mecanismo">Amacenamiento con Ficheros</string>
+    <string name="inicio">Continuar</string>
+    <string name="texto_op">A continuación se encontrará cinco (5) botones, cada uno correspondiene a un espacio logaritmico de prueba para ejecutar el desarrollo del experimento.</string>
+    <string name="test_0">Test 10^0</string>
+    <string name="test_1">Test 10^1</string>
+    <string name="test_2">Test 10^2</string>
+    <string name="test_3">Test 10^3</string>
+    <string name="test_4">Test 10^4</string>
+</resources>
